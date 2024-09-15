@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deridare.github.io/sitemap.html.gz
+Sitemap: https://deridare.github.io/app/sitemap.html.gz
+Sitemap: https://deridare.github.io/assets/sitemap.html.gz
+Sitemap: https://deridare.github.io/css/sitemap.html.gz
+Sitemap: https://deridare.github.io/includes/sitemap.html.gz
+Sitemap: https://deridare.github.io/item/sitemap.html.gz
+Sitemap: https://deridare.github.io/src/sitemap.html.gz
